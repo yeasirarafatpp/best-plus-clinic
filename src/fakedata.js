@@ -35,4 +35,43 @@ const data = [
         desc: 'At our clinic you will find the best pharmacy where you can buy all most every medicine',
         service: 'https://i.ibb.co/9v8kpZr/6-ambulance.jpg'
     }
-]    
+]
+
+const doctor = [
+    {
+        key: 'kjsg',
+        name: 'Yeasir Arafat',
+        post: 'ICU Incharge',
+        doctorImg: 'https://i.ibb.co/4WZPDYg/docter1.jpg'
+    },
+    {
+        key: 'kspg',
+        name: 'Kuber Ali',
+        post: 'Cardiologist',
+        doctorImg: 'https://i.ibb.co/6XKKdwT/docter2.jpg'
+    },
+    {
+        key: 'eulh',
+        name: 'Alia Bhatt',
+        post: 'Physical Therapist',
+        doctorImg: 'https://i.ibb.co/V91QNtn/docter3.jpg'
+    },
+    {
+        key: 'akeh',
+        name: 'Sing xu',
+        post: 'Professor',
+        doctorImg: 'https://i.ibb.co/t2dC2b6/docter4.jpg'
+    },
+    {
+        key: 'kjsg',
+        name: 'Selena Gomez',
+        post: 'Operation Head',
+        doctorImg: 'https://i.ibb.co/gdKjGqh/docter5.jpg'
+    },
+    {
+        key: 'ylgp',
+        name: 'Abbas Ali',
+        post: 'Research Doctor',
+        doctorImg: 'https://i.ibb.co/m9WqZg1/docter6.jpg'
+    },
+]
